@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Libreria
+</name>
+</assembly>
+<members>
+<member name="T:Libreria.BDLibreriaDataSet.CLIENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.LIBRODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.PEDIDODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.USUARIODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.CREATEUSERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.CLIENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.LIBRORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.PEDIDORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.USUARIORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.CREATEUSERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.CLIENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.LIBRORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.PEDIDORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.USUARIORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet.CREATEUSERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSetTableAdapters.CLIENTESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSetTableAdapters.LIBROTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSetTableAdapters.PEDIDOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSetTableAdapters.USUARIOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSetTableAdapters.CREATEUSERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Libreria.BDLibreriaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Libreria.BDLibreriaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Libreria.BDLibreriaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Libreria.BDLibreriaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Libreria.BDLibreriaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Libreria.BDLibreriaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Libreria.BDLibreriaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Libreria.BDLibreriaDataSetTableAdapters.TableAdapterManager.UpdateAll(Libreria.BDLibreriaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Libreria.BDLibreriaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Libreria.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Libreria.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:Libreria.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>
