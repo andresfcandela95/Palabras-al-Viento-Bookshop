@@ -29,3 +29,33 @@ C:\Users\ANDRES\documents\visual studio 2010\Projects\Libreria\Libreria\obj\x86\
 C:\Users\ANDRES\documents\visual studio 2010\Projects\Libreria\Libreria\obj\x86\Debug\Libreria.Infolibro.resources
 C:\Users\ANDRES\documents\visual studio 2010\Projects\Libreria\Libreria\obj\x86\Debug\Libreria.loginus.resources
 C:\Users\ANDRES\documents\visual studio 2010\Projects\Libreria\Libreria\obj\x86\Debug\Libreria.ID.resources
+C:\Users\ANDRES\Documents\Visual Studio 2010\Projects\Libreria\Libreria\obj\x86\Debug\RdlCompile.cache
+C:\Users\ANDRES\Documents\Visual Studio 2010\Projects\Libreria\Libreria\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ANDRES\Documents\Visual Studio 2010\Projects\Libreria\Libreria\obj\x86\Debug\Libreria.vbprojResolveAssemblyReference.cache
+C:\Users\ANDRES\Documents\Visual Studio 2010\Projects\Libreria\Libreria\obj\x86\Debug\Libreria.FFactura.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\bin\Debug\Libreria.exe.config
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.exe
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.xml
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.pdb
+C:\Users\ANDRES\Desktop\Libreria\Libreria\bin\Debug\Libreria.exe
+C:\Users\ANDRES\Desktop\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\ANDRES\Desktop\Libreria\Libreria\bin\Debug\Libreria.xml
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.vbprojResolveAssemblyReference.cache
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.admin.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.CARGANDO.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.FFactura.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.historia.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.ID.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.Infolibro.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.inicio.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.Infantil.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.PEDIDO.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.About.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.loginus.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.Resources.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.novela.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.romantica.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.usuario.resources
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\Libreria.vbproj.GenerateResource.Cache
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\RdlCompile.cache
+C:\Users\ANDRES\Desktop\Libreria\Libreria\obj\x86\Debug\RdlCompile.compiled
